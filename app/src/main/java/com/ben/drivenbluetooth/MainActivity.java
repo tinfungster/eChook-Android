@@ -105,7 +105,7 @@ public class MainActivity
 
         context = getApplicationContext();
 
-//        GraphData.InitializeGraphDataSets(context) c;
+//        GraphData.InitializeGraphDataSets(context);
 
         setContentView(R.layout.activity_main_v2); // sets the main screen.
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
