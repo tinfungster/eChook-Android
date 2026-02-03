@@ -46,7 +46,6 @@ public class AllDataFragment extends Fragment {
     /*===================*/
 	/* INITIALIZERS
 	/*===================*/
-    // Modify here //
     private void InitializeDataFields() {
         View v = getView();
         assert v != null;
