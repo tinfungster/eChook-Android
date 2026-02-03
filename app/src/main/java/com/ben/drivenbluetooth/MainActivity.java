@@ -305,7 +305,8 @@ public class MainActivity
 
         UpdateDataFileInfo();
 
-        myBluetoothManager.setBluetoothEventsListener(this);
+        myBluetoothManager.setBluetoothEventsListener
+        (this);
     }
 
     private void InitializeFragmentList() {
